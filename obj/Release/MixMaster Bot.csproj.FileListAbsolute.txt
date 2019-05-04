@@ -1,0 +1,7 @@
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\MixMaster Bot\MixMaster Bot\bin\Release\MixMaster Bot.exe.config
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\MixMaster Bot\MixMaster Bot\bin\Release\MixMaster Bot.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\MixMaster Bot\MixMaster Bot\bin\Release\MixMaster Bot.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\MixMaster Bot\MixMaster Bot\obj\Release\MixMaster Bot.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\MixMaster Bot\MixMaster Bot\obj\Release\MixMaster Bot.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\MixMaster Bot\MixMaster Bot\bin\Release\MySql.Data.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\MixMaster Bot\MixMaster Bot\bin\Release\MySql.Data.xml
